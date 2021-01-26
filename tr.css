@@ -1,0 +1,24 @@
+.fc .fc-bg-event {
+  /*background-color: red;*/
+  opacity: 0.9;
+}
+
+
+/*.fc-highlight {
+  background: blue !important;
+}*/
+
+.fc-event-title {
+      margin: .5em;
+      font-size: .185em;
+      font-size: var(--fc-small-font-size, .85em);
+      font-style: italic;
+      /*color:white;*/
+    }
+
+/*
+    .cal1{
+  height: 40%;
+  width: 40%;
+
+}*/

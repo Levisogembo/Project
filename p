@@ -1,0 +1,8 @@
+                                              <DOCTYPE! HTML>
+                                                </div>
+                                                <div id="rightSidebarAgenda" class="right-sidebar-panel-content partialSidebarContents" data-url="/Activity/GetAgendaForUser?userGuid=403ee555-ce44-4da8-8857-139050b7d2b9">
+                                                    <img src="/Content/images/loading-image.gif" />
+                                                </div>
+
+                                            </div>
+                                            </html>
